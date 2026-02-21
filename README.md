@@ -1,5 +1,51 @@
-# 💫 About Me:
- 👋 Hi, I'm Sai Kamal Challa<br><br>🚀 DevOps Engineer | AWS Certified Solutions Architect | Kubernetes (EKS) | Terraform | CI/CD Automation  <br><br>I’m a DevOps Engineer with 4+ years of hands-on experience supporting cloud-native applications across AWS environments, CI/CD pipelines, and containerized platforms.<br><br>Currently pursuing my Master’s in Computer Science at Central Michigan University (Dec 2025), I bring strong experience in infrastructure automation, deployment reliability, and production support across enterprise environments in the US and India.<br><br>---<br><br> 💼 What I Do<br><br>- ☁️ Work extensively with AWS (EC2, S3, IAM, VPC, Load Balancers, Auto Scaling, CloudWatch)<br>- 🐳 Build and manage containerized workloads using Docker & Kubernetes (EKS)<br>- ⚙️ Implement Infrastructure as Code using Terraform<br>- 🔁 Design and maintain CI/CD pipelines using Jenkins & GitHub Actions<br>- 📊 Monitor and troubleshoot systems using CloudWatch, Prometheus, Grafana<br>- 🛠 Perform incident triage, root cause analysis (RCA), and production support<br><br>---<br><br> 🏢 Professional Experience<br><br>**DevOps Engineer – HCL Tech (USA)**  <br>Supporting AWS & EKS environments, Terraform-based infrastructure updates, CI/CD releases, and production monitoring.<br><br>**DevOps Engineer – Mindtree (India)**  <br>Built CI/CD pipelines, implemented IaC with Terraform, managed Docker/Kubernetes deployments, and improved deployment reliability.<br><br>**Cloud Engineer – Hexaware Technologies (India)**  <br>Supported AWS cloud infrastructure, Linux administration, Jenkins-based deployments, and operational runbooks.<br><br>---<br><br> 🧠 Core Strengths<br><br>- Infrastructure Automation  <br>- Cloud Architecture Support  <br>- Deployment Reliability  <br>- Incident Troubleshooting  <br>- Agile Collaboration  <br><br>---<br><br> 🎯 Career Focus<br><br>I’m passionate about building scalable, automated, and reliable cloud infrastructure that enables faster and safer software delivery.<br>
+# 💫 About Me
+👋 Hi, I'm **Sai Kamal Challa**
+
+🚀 **DevOps Engineer | AWS Certified Solutions Architect | Kubernetes (EKS) | Terraform | CI/CD Automation**
+
+I'm a DevOps Engineer with **4+ years of experience** architecting, automating, and operating AWS cloud platforms and Kubernetes environments. I specialize in Terraform-driven infrastructure, CI/CD engineering, Kubernetes Operators, and production observability — enabling scalable, resilient systems while accelerating release velocity and eliminating manual provisioning.
+
+Currently holding an **M.S. in Computer Science from Central Michigan University (Dec 2025)**, with hands-on experience across enterprise environments in the US and India.
+
+---
+
+## 💼 What I Do
+
+- ☁️ **AWS Infrastructure** — EC2, EKS, S3, IAM, VPC, Route 53, ALB/NLB, Auto Scaling, CloudWatch, CloudTrail
+- 🐳 **Containerization & Orchestration** — Docker, Kubernetes, Amazon EKS, Helm, Kubernetes Operators
+- ⚙️ **Infrastructure as Code** — Terraform (Reusable Modules, Remote State, Workspaces)
+- 🔁 **CI/CD Engineering** — Jenkins, GitHub Actions, Pipeline Automation, Build & Release Engineering
+- 📊 **Observability** — CloudWatch dashboards (5K+ daily events), Prometheus, Grafana, Alerting, Incident Diagnostics
+- 🛠 **Production Support** — RCA, Blue-Green/Rolling Deployments, Operational Runbooks, Agile/Scrum
+
+---
+
+## 🏢 Professional Experience
+
+**DevOps Engineer — HCL Tech (USA)** *(Oct 2025 – Present)*
+Engineering multiregion AWS + EKS infrastructure for 300+ users. Cut release configuration effort from 5 hours to under 60 minutes with reusable Terraform modules. Reduced deployment recovery cycles from 4 hours to ~45 minutes.
+
+**DevOps Engineer — Mindtree (India)** *(Jun 2021 – Nov 2023)*
+Architected Jenkins CI/CD pipelines for 20+ weekly releases. Containerized microservices on Kubernetes, implemented Operator-driven workflows, and built Terraform frameworks enabling full environment creation in under 1 hour.
+
+**Cloud Engineer — Hexaware Technologies (India)** *(Jan 2020 – May 2021)*
+Managed AWS environments for 25+ engineers. Automated provisioning with Bash, reducing setup time from 3 hours to under 30 minutes. Supported Jenkins CI/CD workflows with 10–15 automated builds daily.
+
+---
+
+## 🧠 Core Strengths
+
+- Infrastructure Automation & IaC
+- Kubernetes Operators & EKS Cluster Management
+- CI/CD Pipeline Design & Reliability
+- Cloud Observability & Incident Triage
+- Agile Delivery Alignment
+
+---
+
+## 🎯 Career Focus
+
+Passionate about building **scalable, automated, and reliable cloud infrastructure** that enables faster and safer software delivery — with measurable impact on deployment speed, system reliability, and team efficiency.
 
 
 🌐 Socials:
