@@ -54,8 +54,8 @@ Passionate about building **scalable, automated, and secure cloud infrastructure
 ## 📫 Let's Connect
 
 - 📧 kamalchalla83@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
-- 📍 Mount Pleasant, MI | Open to Remote Roles
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-kamal1)
+- 📍 United States  | Open to Remote Roles
 
 
 🌐 Socials:
