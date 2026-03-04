@@ -1,51 +1,61 @@
 # 💫 About Me
 👋 Hi, I'm **Sai Kamal Challa**
+🚀 **DevOps Engineer | AWS Certified Solutions Architect | Kubernetes (EKS & AKS) | Terraform | CI/CD Automation**
 
-🚀 **DevOps Engineer | AWS Certified Solutions Architect | Kubernetes (EKS) | Terraform | CI/CD Automation**
+I'm a DevOps Engineer with **4+ years of experience** designing, automating, and operating cloud-native infrastructure across **AWS and Azure** environments. I specialize in Terraform-driven IaC, Kubernetes orchestration on EKS & AKS, CI/CD pipeline engineering, and production observability — delivering scalable, resilient systems that reduce manual effort and accelerate release velocity.
 
-I'm a DevOps Engineer with **4+ years of experience** architecting, automating, and operating AWS cloud platforms and Kubernetes environments. I specialize in Terraform-driven infrastructure, CI/CD engineering, Kubernetes Operators, and production observability — enabling scalable, resilient systems while accelerating release velocity and eliminating manual provisioning.
-
-Currently holding an **M.S. in Computer Science from Central Michigan University (Dec 2025)**, with hands-on experience across enterprise environments in the US and India.
+Currently holding an **M.S. in Computer Science from Central Michigan University (Dec 2025)**, with hands-on production experience across enterprise environments in the US and India.
 
 ---
 
 ## 💼 What I Do
 
-- ☁️ **AWS Infrastructure** — EC2, EKS, S3, IAM, VPC, Route 53, ALB/NLB, Auto Scaling, CloudWatch, CloudTrail
-- 🐳 **Containerization & Orchestration** — Docker, Kubernetes, Amazon EKS, Helm, Kubernetes Operators
-- ⚙️ **Infrastructure as Code** — Terraform (Reusable Modules, Remote State, Workspaces)
-- 🔁 **CI/CD Engineering** — Jenkins, GitHub Actions, Pipeline Automation, Build & Release Engineering
-- 📊 **Observability** — CloudWatch dashboards (5K+ daily events), Prometheus, Grafana, Alerting, Incident Diagnostics
-- 🛠 **Production Support** — RCA, Blue-Green/Rolling Deployments, Operational Runbooks, Agile/Scrum
+- ☁️ **AWS Infrastructure** — EC2, EKS, S3, IAM, VPC, ALB, Auto Scaling, CloudWatch, CloudTrail
+- 🔷 **Azure** — AKS, Azure DevOps, Azure App Services, Azure RBAC, ARM Templates
+- 🐳 **Containerization & Orchestration** — Docker, Kubernetes (EKS & AKS), Helm
+- ⚙️ **Infrastructure as Code** — Terraform (Reusable Modules, Remote State, Multi-environment)
+- 🔁 **CI/CD Engineering** — Jenkins, GitHub Actions, Azure DevOps Pipelines
+- 📊 **Observability** — CloudWatch, Prometheus, Grafana, SLI/SLO Monitoring, Incident Triage
+- 🔐 **Security** — IAM Policies, Azure RBAC, VPC Security Groups, Least-Privilege Access
+- 🛠 **SRE Practices** — Incident Response, Root Cause Analysis, High Availability Design, On-Call Support
 
 ---
 
 ## 🏢 Professional Experience
 
 **DevOps Engineer — HCL Tech (USA)** *(Oct 2025 – Present)*
-Engineering multiregion AWS + EKS infrastructure for 300+ users. Cut release configuration effort from 5 hours to under 60 minutes with reusable Terraform modules. Reduced deployment recovery cycles from 4 hours to ~45 minutes.
+Managing production Kubernetes (EKS) workloads across AWS environments. Executing Terraform-based infrastructure changes across AWS and Azure. Supporting CI/CD pipeline executions via Jenkins and Azure DevOps. Monitoring system health with CloudWatch and Prometheus, and automating operational validation with Bash and Python scripts.
 
 **DevOps Engineer — Mindtree (India)** *(Jun 2021 – Nov 2023)*
-Architected Jenkins CI/CD pipelines for 20+ weekly releases. Containerized microservices on Kubernetes, implemented Operator-driven workflows, and built Terraform frameworks enabling full environment creation in under 1 hour.
+Designed CI/CD pipelines for multiple microservices, improving deployment reliability by **~30%**. Built reusable Terraform modules that reduced manual provisioning effort by **~40%**. Deployed and maintained containerized workloads on EKS & AKS with rolling update strategies. Integrated Prometheus and Grafana monitoring, reducing MTTR significantly.
 
 **Cloud Engineer — Hexaware Technologies (India)** *(Jan 2020 – May 2021)*
-Managed AWS environments for 25+ engineers. Automated provisioning with Bash, reducing setup time from 3 hours to under 30 minutes. Supported Jenkins CI/CD workflows with 10–15 automated builds daily.
+Managed AWS environments (EC2, S3, IAM, VPC) for development and testing teams. Automated cloud provisioning, reducing manual effort by **~25%**. Supported Jenkins CI/CD workflows and contributed to a **15% reduction** in recurring environment-related issues via CloudWatch monitoring.
 
 ---
 
 ## 🧠 Core Strengths
 
-- Infrastructure Automation & IaC
-- Kubernetes Operators & EKS Cluster Management
-- CI/CD Pipeline Design & Reliability
-- Cloud Observability & Incident Triage
-- Agile Delivery Alignment
+- Terraform IaC & Multi-Environment Infrastructure Automation
+- Kubernetes (EKS & AKS) Cluster Management & Deployment Reliability
+- CI/CD Pipeline Design — Jenkins, GitHub Actions, Azure DevOps
+- Cloud Observability & SLI/SLO Monitoring
+- IAM Security & Least-Privilege Access Controls
+- Incident Response, RCA & Blameless Postmortems
 
 ---
 
 ## 🎯 Career Focus
 
-Passionate about building **scalable, automated, and reliable cloud infrastructure** that enables faster and safer software delivery — with measurable impact on deployment speed, system reliability, and team efficiency.
+Passionate about building **scalable, automated, and secure cloud infrastructure** that enables faster and safer software delivery — with measurable impact on deployment speed, system reliability, and team efficiency.
+
+---
+
+## 📫 Let's Connect
+
+- 📧 kamalchalla83@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
+- 📍 Mount Pleasant, MI | Open to Remote Roles
 
 
 🌐 Socials:
